@@ -1,1 +1,25 @@
+# Raw assessment data
+train-test.csv
+validation.csv
+december-chart-inputs.csv
+validation-predictions-template.csv
 
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
